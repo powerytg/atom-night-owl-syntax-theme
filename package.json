@@ -2,12 +2,12 @@
   "name": "night-owl-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Dark and exciting syntax theme, optimized for long coding nights",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/atom-night-owl-syntax-theme",
+  "repository": "https://github.com/powerytg/atom-night-owl-syntax-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
