@@ -5,7 +5,12 @@
   "description": "Dark and exciting syntax theme, optimized for long coding nights",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "dark",
+    "night",
+    "owl",
+    "color",
+    "smooth"
   ],
   "repository": "https://github.com/powerytg/atom-night-owl-syntax-theme",
   "license": "MIT",
